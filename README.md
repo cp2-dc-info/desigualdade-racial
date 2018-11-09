@@ -1,38 +1,32 @@
-## Welcome to GitHub Pages
+=============================
+Sleek Blog
+=============================
 
-You can use the [editor on GitHub](https://github.com/cp2-dc-info/educacao-fisica-in202-2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Live Website](http://gearoidoconnor.ie)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+A blog project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer &amp; BrowserSync
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## System Preparation
 
-# Header 1
-## Header 2
-### Header 3
+To use this project, you'll need the following things installed on your machine.
 
-- Bulleted
-- List
-- Test
+1. [Jekyll](http://jekyllrb.com/) - `$ gem install jekyll`
+2. [NodeJS](http://nodejs.org) - use the installer.
+3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
 
-1. Numbered
-2. List
+## Local Installation
 
-**Bold** and _Italic_ and `Code` text
+1. Clone this repo, or download it into a directory of your choice.
+2. Inside the directory, run `npm install`.
 
-[Link](url) and ![Image](src)
+## Usage
+
+**development mode**
+
+This will give you file watching, browser synchronisation, auto-rebuild, CSS injecting etc etc.
+
+```shell
+$ gulp watch
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cp2-dc-info/educacao-fisica-in202-2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
