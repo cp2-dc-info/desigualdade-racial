@@ -1,2 +1,3 @@
 remote_theme: bawn92/sleek_blog
 markdown: kramdown
+baseurl: /project
