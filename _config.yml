@@ -1,6 +1,4 @@
-remote_theme: bawn92/sleek_blog
+theme: sleek_blog
 markdown: kramdown
 baseurl: /desigualdade-racial
 url: https://cp2-dc-info.github.io/desigualdade-racial
-
-theme: jekyll-theme-cayman
